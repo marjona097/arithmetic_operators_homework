@@ -3,5 +3,6 @@ number=12
 #Create a variable called 'answer' and assign the remainder of the division of 
 # # number by 3 to it.
 answer=10
+answer=number%answer
 #Print 'answer'.
-print(number%answer)
+print(answer)
