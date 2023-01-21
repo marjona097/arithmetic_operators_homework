@@ -6,9 +6,8 @@ x1=raqam//100
 x2=raqam%100
 x3=raqam%10
 x4=x2//10
-#Find the 'number' third digit and assign to x3.
+#Find the 'number' third digit and assig of the three digits x1, x2, x3.
 
-#Create a variable called 'answer' and assign it the sum of the three digits x1, x2, x3.
-javob=x1+x4+x3
+number=x1+x4+x3
 #Print the value of the 'answer.
-print(javob)
+print(number)
