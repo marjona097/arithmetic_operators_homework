@@ -4,6 +4,7 @@ number=45
 x1=number%10
 x2=number//10
 x3=x1*10
+answer=x3+x2
 #Print the value of the 'answer'
 print(x3+x2)
 
