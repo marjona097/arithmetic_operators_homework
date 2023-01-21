@@ -5,4 +5,4 @@ y=5
 #Create a variable 'result' and assign it the value of x + y.
 
 #Print the value of the 'result'.
-result=x+y
+print(x+y)
