@@ -7,6 +7,6 @@ x3=raqam%10
 
 #Find the 'number' third digit and assig of the three digits x1, x2, x3.
 
-number=x3+x2+x1
+answer=x3+x2+x1
 #Print the value of the 'answer.
-print(number)
+print(answer)
